@@ -17,6 +17,7 @@ public class ApplicationExampleTest {
 
     @Value("${info.app.name}")
     private String appName;
+    //test
 
     @Value("${info.app.description}")
     private String appDescription;
